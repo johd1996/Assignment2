@@ -7,6 +7,6 @@ Signup,
 Add contact, 
 View list
 
-####yarn install/ npm install
-####npm start/expo start
+#### yarn install/ npm install
+#### npm start/expo start
 
