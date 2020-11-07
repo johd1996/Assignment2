@@ -2,7 +2,11 @@
 
 Main screens:
 
-Login
-Signup
-Forgot password
+Login,
+Signup,
+Add contact, 
+View list
+
+####yarn install/ npm install
+####npm start/expo start
 
